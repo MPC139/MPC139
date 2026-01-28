@@ -1,4 +1,5 @@
-![Naruto Header](https://media.giphy.com/media/l0NwNrg0rQXJkLqSY/giphy.gif)
+<!-- GIF DE CABECERA (Dino u otro que te guste) -->
+![Cyber Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRxeDQ3enp4ZWRvdG9lanJpMnJyenFrNTBjOGx1OXhlbm5weWVkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btZ3T6y3JTmjg4w/giphy.gif)
 
 <!-- SALUDO Y GIF ANIMADO -->
 <h2 align="left">
@@ -7,7 +8,7 @@
   
   <!-- GIF LATERAL DERECHO (Coding / Hacker theme) -->
   <a href="https://github.com/MPC139">
-    <img align='right' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='150' alt='Coding Gif' />
+    <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRmNGM1ZmV0dnEyZ2IyOTM2dmM1azdjd2Fzb2h1MnVtZGtlaXFlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JoLIe41YKd3Xj4sX8s/giphy.gif' width='150' alt='Coding Gif' />
     <!-- Nota: El gif original de UjwalKandi era muy específico, he puesto un placeholder o puedes borrar esta línea de la imagen derecha si prefieres limpieza -->
   </a>
 </h2>
@@ -25,7 +26,7 @@
 <p align="left">
   <!-- Estos son más grandes para destacar FUERTEMENTE como pediste -->
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain-wordmark.svg" style="filter: invert(100%)" alt="rust" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://en.cppreference.com/w/c" target="_blank">
@@ -84,18 +85,3 @@
 
 <hr/>
 <p align="center">Last Updated: 2026</p>
-
-<!--
-**MPC139/MPC139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
