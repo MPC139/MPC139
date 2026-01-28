@@ -26,7 +26,7 @@
 <p align="left">
   <!-- Estos son más grandes para destacar FUERTEMENTE como pediste -->
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain-wordmark.svg" style="filter: invert(100%)" alt="rust" width="60" height="60"/>
+    <img src="https://cdn.simpleicons.org/rust/white" alt="rust" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://en.cppreference.com/w/c" target="_blank">
@@ -56,11 +56,11 @@
 <!-- ESTADÍSTICAS DE GITHUB (Tema 'blue-green' para combinar con el estilo original) -->
 <div align="left">
   <a href="https://github.com/MPC139">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=MPC139&count_private=true&show_icons=true&theme=blue-green&hide_border=true&hide_rank=false&include_all_commits=true" alt="Github Stats" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=MPC139&show_icons=true&theme=transparent&hide_border=true&hide_rank=false" alt="Github Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/MPC139">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPC139&layout=compact&langs_count=6&theme=blue-green&hide_border=true" alt="Top Langs" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPC139&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Langs" />
   </a>
 </div>
 
